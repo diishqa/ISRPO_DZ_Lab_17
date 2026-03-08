@@ -1,0 +1,15 @@
+C:\Users\Diana\OneDrive\Документы\Lab17_Algorithms_Kuzmina\code\Zadanie_1\bin\Debug\net9.0\Zadanie_1.exe
+C:\Users\Diana\OneDrive\Документы\Lab17_Algorithms_Kuzmina\code\Zadanie_1\bin\Debug\net9.0\Zadanie_1.deps.json
+C:\Users\Diana\OneDrive\Документы\Lab17_Algorithms_Kuzmina\code\Zadanie_1\bin\Debug\net9.0\Zadanie_1.runtimeconfig.json
+C:\Users\Diana\OneDrive\Документы\Lab17_Algorithms_Kuzmina\code\Zadanie_1\bin\Debug\net9.0\Zadanie_1.dll
+C:\Users\Diana\OneDrive\Документы\Lab17_Algorithms_Kuzmina\code\Zadanie_1\bin\Debug\net9.0\Zadanie_1.pdb
+C:\Users\Diana\OneDrive\Документы\Lab17_Algorithms_Kuzmina\code\Zadanie_1\obj\Debug\net9.0\Zadanie_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Diana\OneDrive\Документы\Lab17_Algorithms_Kuzmina\code\Zadanie_1\obj\Debug\net9.0\Zadanie_1.AssemblyInfoInputs.cache
+C:\Users\Diana\OneDrive\Документы\Lab17_Algorithms_Kuzmina\code\Zadanie_1\obj\Debug\net9.0\Zadanie_1.AssemblyInfo.cs
+C:\Users\Diana\OneDrive\Документы\Lab17_Algorithms_Kuzmina\code\Zadanie_1\obj\Debug\net9.0\Zadanie_1.csproj.CoreCompileInputs.cache
+C:\Users\Diana\OneDrive\Документы\Lab17_Algorithms_Kuzmina\code\Zadanie_1\obj\Debug\net9.0\Zadanie_1.sourcelink.json
+C:\Users\Diana\OneDrive\Документы\Lab17_Algorithms_Kuzmina\code\Zadanie_1\obj\Debug\net9.0\Zadanie_1.dll
+C:\Users\Diana\OneDrive\Документы\Lab17_Algorithms_Kuzmina\code\Zadanie_1\obj\Debug\net9.0\refint\Zadanie_1.dll
+C:\Users\Diana\OneDrive\Документы\Lab17_Algorithms_Kuzmina\code\Zadanie_1\obj\Debug\net9.0\Zadanie_1.pdb
+C:\Users\Diana\OneDrive\Документы\Lab17_Algorithms_Kuzmina\code\Zadanie_1\obj\Debug\net9.0\Zadanie_1.genruntimeconfig.cache
+C:\Users\Diana\OneDrive\Документы\Lab17_Algorithms_Kuzmina\code\Zadanie_1\obj\Debug\net9.0\ref\Zadanie_1.dll
