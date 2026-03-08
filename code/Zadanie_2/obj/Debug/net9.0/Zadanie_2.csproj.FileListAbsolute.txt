@@ -1,0 +1,15 @@
+C:\Users\Diana\OneDrive\Документы\DZ_lab17_ISRPO\code\Zadanie_2\bin\Debug\net9.0\Zadanie_2.exe
+C:\Users\Diana\OneDrive\Документы\DZ_lab17_ISRPO\code\Zadanie_2\bin\Debug\net9.0\Zadanie_2.deps.json
+C:\Users\Diana\OneDrive\Документы\DZ_lab17_ISRPO\code\Zadanie_2\bin\Debug\net9.0\Zadanie_2.runtimeconfig.json
+C:\Users\Diana\OneDrive\Документы\DZ_lab17_ISRPO\code\Zadanie_2\bin\Debug\net9.0\Zadanie_2.dll
+C:\Users\Diana\OneDrive\Документы\DZ_lab17_ISRPO\code\Zadanie_2\bin\Debug\net9.0\Zadanie_2.pdb
+C:\Users\Diana\OneDrive\Документы\DZ_lab17_ISRPO\code\Zadanie_2\obj\Debug\net9.0\Zadanie_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Diana\OneDrive\Документы\DZ_lab17_ISRPO\code\Zadanie_2\obj\Debug\net9.0\Zadanie_2.AssemblyInfoInputs.cache
+C:\Users\Diana\OneDrive\Документы\DZ_lab17_ISRPO\code\Zadanie_2\obj\Debug\net9.0\Zadanie_2.AssemblyInfo.cs
+C:\Users\Diana\OneDrive\Документы\DZ_lab17_ISRPO\code\Zadanie_2\obj\Debug\net9.0\Zadanie_2.csproj.CoreCompileInputs.cache
+C:\Users\Diana\OneDrive\Документы\DZ_lab17_ISRPO\code\Zadanie_2\obj\Debug\net9.0\Zadanie_2.sourcelink.json
+C:\Users\Diana\OneDrive\Документы\DZ_lab17_ISRPO\code\Zadanie_2\obj\Debug\net9.0\Zadanie_2.dll
+C:\Users\Diana\OneDrive\Документы\DZ_lab17_ISRPO\code\Zadanie_2\obj\Debug\net9.0\refint\Zadanie_2.dll
+C:\Users\Diana\OneDrive\Документы\DZ_lab17_ISRPO\code\Zadanie_2\obj\Debug\net9.0\Zadanie_2.pdb
+C:\Users\Diana\OneDrive\Документы\DZ_lab17_ISRPO\code\Zadanie_2\obj\Debug\net9.0\Zadanie_2.genruntimeconfig.cache
+C:\Users\Diana\OneDrive\Документы\DZ_lab17_ISRPO\code\Zadanie_2\obj\Debug\net9.0\ref\Zadanie_2.dll
